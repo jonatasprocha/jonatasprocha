@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jônatas
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript and C#
+- 🌱 I’m currently learning Java, JavaScript and Python
 
 <!---
 jonatasprocha/jonatasprocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
